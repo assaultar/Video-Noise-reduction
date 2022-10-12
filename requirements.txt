@@ -1,0 +1,10 @@
+torch
+torchvision
+opencv-python
+numpy
+scikit-image
+matplotlib
+ffmpeg-python
+
+-i https://developer.download.nvidia.com/compute/redist
+nvidia-dali-cuda100==1.2.0
